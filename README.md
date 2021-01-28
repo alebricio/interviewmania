@@ -21,5 +21,4 @@ Given a string `S`, find the length of the longest substring without repeating c
 <b>Input:</b> s = "pwwkew"
 <b>Output:</b> 3
 <b>Explanation:</b> The answer is "wke", with the length of 3.
-Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 </pre>
